@@ -3,30 +3,26 @@
 		{
 			"year": 2025,
 			"month": 10,
-			"day": 1,
-			"hour": 22,
-			"min": 0
-		},
-		{
-			"year": 2025,
-			"month": 10,
 			"day": 9,
 			"hour": 22,
-			"min": 0
+			"min": 0,
+			"type": "通常営業"
 		},
 		{
 			"year": 2025,
 			"month": 10,
 			"day": 23,
 			"hour": 22,
-			"min": 0
+			"min": 0,
+			"type": "通常営業"
 		},
 		{
 			"year": 2025,
 			"month": 10,
 			"day": 30,
 			"hour": 22,
-			"min": 0
+			"min": 0,
+			"type": "臨時営業"
 		}
 	]
 }
