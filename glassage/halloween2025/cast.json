@@ -1,0 +1,108 @@
+{
+	"cast": [
+		{
+			"vrcName": "Fifteen_1515",
+			"castName": "Fifteen",
+			"type": "なんでもあり",
+			"profile": "主催のFifteenです。好きに呼んでください。\n全ての眼鏡が好きで、このイベントを作りました。\n\nあなたのしたいこと、ぜんぶいいよ。",
+			"panelId": 0,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "じりじりあ",
+			"castName": "じりあ",
+			"type": "お好みで",
+			"profile": "ハロウィンだからっていたずらばかりしてる子は逮捕しちゃいますよー",
+			"panelId": 1,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "nochi（のっち）",
+			"castName": "のっち",
+			"type": "お望みのまま",
+			"profile": "お話も撫でも、ハロウィンの夜にぴったりの癒しをどうぞ。\n甘く優しい魔法で包みますね。",
+			"panelId": 2,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "Angelaaki824",
+			"castName": "アンジェラあき",
+			"type": "雑談/撫で/距離近",
+			"profile": "がお～たべちゃうぞ～\nあれ？おばけってたべるんだっけ？",
+			"panelId": 3,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "kozamё",
+			"castName": "kozamё",
+			"type": "会話メイン",
+			"profile": "今日は年に一度の特別な夜🎃\nいつもと違う姿であなたに甘々なひと時を ",
+			"panelId": 4,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "レガシーコード",
+			"castName": "れがしー",
+			"type": "会話と撫で撫で、距離近め",
+			"profile": "ハロウィンの夜、いつもと違う雰囲気で。\nゆっくりお話ししましょう。",
+			"panelId": 5,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "uruhime",
+			"castName": "uru",
+			"type": "お話メインですがなんでもどうぞ🩵",
+			"profile": "trick or cute♡\nうるが満足するまで可愛いって言ってくれなきゃ離さないよ…？\nうると特別な夜を過ごそうね",
+			"panelId": 6,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "Nana77_",
+			"castName": "Nana",
+			"type": "油断してる時に...？",
+			"profile": "ひと時も油断しちゃだめよ？\nそれとも、いじわるされたい？",
+			"panelId": 7,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "me0-0oeoe",
+			"castName": "Me（ﾐｰ）",
+			"type": "お話．相談．近くて遠い距離感",
+			"profile": "はっぴーはろうぃ～ん\n今夜だけ中華メイドってことで...",
+			"panelId": 8,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "しいたけ냐",
+			"castName": "しいたけ냐",
+			"type": "やわらかくおはなし/なで",
+			"profile": "Trick or Treat!!!\nお菓子をたーーくさんくれないとかみついちしまうよー！",
+			"panelId": 9,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "まよまる",
+			"castName": "まよまる",
+			"type": "甘々ななでなでと癒し！！",
+			"profile": "お菓子よこせ！！いたずらしちゃうぞ！！\n甘々な時間を過ごそうね♡",
+			"panelId": 10,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "ぽむちめが",
+			"castName": "ぽむちめが",
+			"type": "ほろよいおしゃべり",
+			"profile": "でっかいお姉さんと無邪気にお話ししよーよ！\nとって食べたりしないから安心してね\nぐびぃ",
+			"panelId": 11,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "Nana8a",
+			"castName": "ななは",
+			"type": "会話メイン",
+			"profile": "ハロウィンの夜だけおまわりさんになりました♡\n少し緊張してるけど、優しく見守ってね。ゆったり楽しい時間を過ごそ",
+			"panelId": 12,
+			"roll": "cast"
+		}
+	]
+}
