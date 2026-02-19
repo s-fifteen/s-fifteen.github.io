@@ -1,0 +1,108 @@
+{
+	"cast": [
+		{
+			"vrcName": "Fifteen_1515",
+			"castName": "Fifteen",
+			"type": "なんでもあり",
+			"profile": "主催のFifteenです。\nうさぎを愛する者として、バニーのイベントを作りました。\n楽しくお話しましょう。",
+			"panelId": 0,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "Nana8a",
+			"castName": "ななは",
+			"type": "のんびりお喋り",
+			"profile": "ななはです。\nお話しするのが好きなのんびりバニーです。\n一緒にゆったり過ごしませんか？",
+			"panelId": 1,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "しいたけ냐",
+			"castName": "しい",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 2,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "nochi（のっち）",
+			"castName": "のっち",
+			"type": "お望みのまま",
+			"profile": "プロフィール",
+			"panelId": 3,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "7E__",
+			"castName": "なな",
+			"type": "ランダムでドキドキ",
+			"profile": "会えてラッキーだね。\n今日はどこまで許してくれる？",
+			"panelId": 4,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "ィおり。",
+			"castName": "ィおり。",
+			"type": "イチャイチャ、愛でる",
+			"profile": "たーっくさん愛でたい\n色んなお話しをしてあなたの事知りたいな\nオトナのバニーを味わいたい方はぜひ私へ…",
+			"panelId": 5,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "sakotsu4",
+			"castName": "さこつ",
+			"type": "お喋り、近距離",
+			"profile": "のんびりマイペースなお姉さん。\nお酒片手に、ゆるく穏やかにお話ししましょ。",
+			"panelId": 6,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "riser61",
+			"castName": "らい",
+			"type": "いちゃいちゃ、甘やかし、お喋り",
+			"profile": "プロフィール",
+			"panelId": 7,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "tii_z",
+			"castName": "ちづ",
+			"type": "お喋り/超近距離/いちゃいちゃ",
+			"profile": "まっしろうさぎの ちづ です！\n楽しいお喋りから甘々密着接客まで…♡\n皆様にお会いしたくてうずうずしてます！\nふたりきりの世界、満喫しようね♡",
+			"panelId": 8,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "LeÍa",
+			"castName": "LeÍa",
+			"type": "お喋り・いちゃいちゃ・近距離",
+			"profile": "近くでお喋りしながら君のことゆっくり教えてね\n照れたり慌てたりするところ見るの好き♡\n可愛いところ見つけたら\n少しだけ意地悪してもいい…？",
+			"panelId": 9,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "Libell - りべる",
+			"castName": "りべる",
+			"type": "お喋り・近距離・甘やかし",
+			"profile": "元気でうるさい酒クズおねーさんバニー！\nお喋り好きには楽しい時間を、\nお疲れ気味のお客様には甘い時間を。\n逆に甘えてくることもあるかも…？",
+			"panelId": 10,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "よももぎ",
+			"castName": "よももぎ",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 11,
+			"roll": "cast"
+		},
+		{
+			"vrcName": "レティシア@VR",
+			"castName": "レティ",
+			"type": "近距離/イチャイチャ（水音可）",
+			"profile": "ふたりっきりで秘密の時間を過ごしましょう💕\nいつもよりちょっぴり大胆な私に会いに来てねっ🫶✨",
+			"panelId": 12,
+			"roll": "cast"
+		}
+	]
+}
