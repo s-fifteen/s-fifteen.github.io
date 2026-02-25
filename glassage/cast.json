@@ -73,7 +73,7 @@
 			"roll": "cast"
 		},
 		{
-			"vrcName": "7E__",
+			"vrcName": "baNana_7",
 			"castName": "Nana",
 			"type": "ランダムでドキドキ？",
 			"profile": "会えてラッキーだね。\n今日はどこまで許してくれる？",
@@ -150,7 +150,7 @@
 			"type": "会話と撫で撫で、時々××",
 			"profile": "やほ～あまだよ。\n今日はどうかした？\nお姉ちゃんにたくさん甘えていいからね。\nさあ、胸に飛び込んでおいで。",
 			"panelId": 19,
-			"roll": "private"
+			"roll": "cast"
 		}
 	]
 }
