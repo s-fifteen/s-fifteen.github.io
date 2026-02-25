@@ -19,8 +19,8 @@
 		{
 			"vrcName": "しいたけ냐",
 			"castName": "しい",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "おはなし/ゆっくり",
+			"profile": "どんなうさぎが好きですか？\nあなたの好きなことのお話しようね",
 			"panelId": 2,
 			"roll": "cast"
 		},
@@ -28,7 +28,7 @@
 			"vrcName": "nochi（のっち）",
 			"castName": "のっち",
 			"type": "お望みのまま",
-			"profile": "プロフィール",
+			"profile": "お話でも撫ででもそれ以上でも\n望んだままにお応えします\n貴方のこと色々教えてくださいね？",
 			"panelId": 3,
 			"roll": "cast"
 		},
@@ -43,7 +43,7 @@
 		{
 			"vrcName": "ィおり。",
 			"castName": "ィおり。",
-			"type": "イチャイチャ、愛でる",
+			"type": "友達感、イチャイチャ、愛でる",
 			"profile": "たーっくさん愛でたい\n色んなお話しをしてあなたの事知りたいな\nオトナのバニーを味わいたい方はぜひ私へ…",
 			"panelId": 5,
 			"roll": "cast"
@@ -89,19 +89,11 @@
 			"roll": "cast"
 		},
 		{
-			"vrcName": "よももぎ",
-			"castName": "よももぎ",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
-			"panelId": 11,
-			"roll": "cast"
-		},
-		{
 			"vrcName": "レティシア@VR",
 			"castName": "レティ",
 			"type": "近距離/イチャイチャ（水音可）",
 			"profile": "ふたりっきりで秘密の時間を過ごしましょう💕\nいつもよりちょっぴり大胆な私に会いに来てねっ🫶✨",
-			"panelId": 12,
+			"panelId": 11,
 			"roll": "cast"
 		}
 	]
