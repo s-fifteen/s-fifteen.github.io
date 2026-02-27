@@ -103,6 +103,14 @@
 			"profile": "じりあです\nやってみたいことがあったら教えてくださいね",
 			"panelId": 12,
 			"roll": "cast"
+		},
+		{
+			"vrcName": "リクインNPC",
+			"castName": "リクインNPC",
+			"type": "dummy",
+			"profile": "dummy",
+			"panelId": 0,
+			"roll": "private"
 		}
 	]
 }
