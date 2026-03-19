@@ -159,6 +159,14 @@
 			"profile": "dummy",
 			"panelId": 0,
 			"roll": "private"
+		},
+		{
+			"vrcName": "Libell - りべる",
+			"castName": "りべる",
+			"type": "お喋り・近距離・甘やかし",
+			"profile": "元気でうるさい酒クズおねーさんバニー！\nお喋り好きには楽しい時間を、\nお疲れ気味のお客様には甘い時間を。\n逆に甘えてくることもあるかも…？",
+			"panelId": 20,
+			"roll": "private"
 		}
 	]
 }
