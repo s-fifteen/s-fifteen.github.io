@@ -6,7 +6,8 @@
 			"type": "なんでもあり",
 			"profile": "主催のFifteenです。\nうさぎを愛する者として、バニーのイベントを作りました。\n楽しくお話しましょう。",
 			"panelId": 0,
-			"roll": "cast"
+			"roll": "cast",
+			"option": "0"
 		},
 		{
 			"vrcName": "Nana8a",
@@ -14,7 +15,8 @@
 			"type": "のんびりお喋り",
 			"profile": "ななはです。\nお話しするのが好きなのんびりバニーです。\n一緒にゆったり過ごしませんか？",
 			"panelId": 1,
-			"roll": "cast"
+			"roll": "cast",
+			"option": "0"
 		},
 		{
 			"vrcName": "しいたけ냐",
@@ -22,7 +24,8 @@
 			"type": "おはなし/ゆっくり",
 			"profile": "どんなうさぎが好きですか？\nあなたの好きなことのお話しようね",
 			"panelId": 2,
-			"roll": "cast"
+			"roll": "cast",
+			"option": "0"
 		},
 		{
 			"vrcName": "nochi（のっち）",
@@ -30,7 +33,8 @@
 			"type": "お望みのまま",
 			"profile": "お話でも撫ででもそれ以上でも\n望んだままにお応えします\n貴方のこと色々教えてくださいね？",
 			"panelId": 3,
-			"roll": "cast"
+			"roll": "cast",
+			"option": "1"
 		},
 		{
 			"vrcName": "baNana_7",
@@ -38,7 +42,8 @@
 			"type": "ランダムでドキドキ",
 			"profile": "会えてラッキーだね。\n今日はどこまで許してくれる？",
 			"panelId": 4,
-			"roll": "cast"
+			"roll": "cast",
+			"option": "1"
 		},
 		{
 			"vrcName": "ィおり。",
@@ -46,7 +51,8 @@
 			"type": "友達感、イチャイチャ、愛でる",
 			"profile": "たーっくさん愛でたい\n色んなお話しをしてあなたの事知りたいな\nオトナのバニーを味わいたい方はぜひ私へ…",
 			"panelId": 5,
-			"roll": "cast"
+			"roll": "cast",
+			"option": "1"
 		},
 		{
 			"vrcName": "sakotsu4",
@@ -54,7 +60,8 @@
 			"type": "お喋り、近距離",
 			"profile": "のんびりマイペースなお姉さん。\nお酒片手に、ゆるく穏やかにお話ししましょ。",
 			"panelId": 6,
-			"roll": "cast"
+			"roll": "cast",
+			"option": "1"
 		},
 		{
 			"vrcName": "riser61",
@@ -62,7 +69,8 @@
 			"type": "おはなし/のんびり/甘やかし",
 			"profile": "はじめましてっ♡\nバニーのらいちゃんだよ〜！\n甘いものと楽しいおしゃべりがだ〜いすき！\nあなたにたくさん癒しと元気をお届けしちゃいますっ！！\n仲良くしてくれたら、ぴょんぴょん喜ぶかも…？ ",
 			"panelId": 7,
-			"roll": "cast"
+			"roll": "cast",
+			"option": "1"
 		},
 		{
 			"vrcName": "tii_z",
@@ -70,7 +78,8 @@
 			"type": "お喋り/超近距離/いちゃいちゃ",
 			"profile": "まっしろうさぎの ちづ です！\n楽しいお喋りから甘々密着接客まで…♡\n皆様にお会いしたくてうずうずしてます！\nふたりきりの世界、満喫しようね♡",
 			"panelId": 8,
-			"roll": "cast"
+			"roll": "cast",
+			"option": "1"
 		},
 		{
 			"vrcName": "LeÍa",
@@ -78,7 +87,8 @@
 			"type": "お喋り・いちゃいちゃ・近距離",
 			"profile": "近くでお喋りしながら君のことゆっくり教えてね\n照れたり慌てたりするところ見るの好き♡\n可愛いところ見つけたら\n少しだけ意地悪してもいい…？",
 			"panelId": 9,
-			"roll": "cast"
+			"roll": "cast",
+			"option": "1"
 		},
 		{
 			"vrcName": "Libell - りべる",
@@ -86,7 +96,8 @@
 			"type": "お喋り・近距離・甘やかし",
 			"profile": "元気でうるさい酒クズおねーさんバニー！\nお喋り好きには楽しい時間を、\nお疲れ気味のお客様には甘い時間を。\n逆に甘えてくることもあるかも…？",
 			"panelId": 10,
-			"roll": "cast"
+			"roll": "cast",
+			"option": "1"
 		},
 		{
 			"vrcName": "レティシア@VR",
@@ -94,7 +105,8 @@
 			"type": "近距離/イチャイチャ/してほしいことな～んでもっ",
 			"profile": "ふたりっきりで秘密の時間を過ごしましょう💕\nいつもよりちょっぴり大胆な私に会いに来てねっ🫶✨",
 			"panelId": 11,
-			"roll": "cast"
+			"roll": "cast",
+			"option": "1"
 		},
 		{
 			"vrcName": "じりじりあ",
@@ -102,7 +114,8 @@
 			"type": "イチャイチャとかもお好みで",
 			"profile": "じりあです\nやってみたいことがあったら教えてくださいね",
 			"panelId": 12,
-			"roll": "cast"
+			"roll": "cast",
+			"option": "1"
 		},
 		{
 			"vrcName": "リクインNPC",
@@ -110,7 +123,8 @@
 			"type": "dummy",
 			"profile": "dummy",
 			"panelId": 0,
-			"roll": "private"
+			"roll": "private",
+			"option": "0"
 		}
 	]
 }
