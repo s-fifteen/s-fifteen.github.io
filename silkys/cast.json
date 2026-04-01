@@ -21,8 +21,8 @@
 			"roll": "cast"
 		},
 		{
-			"vrcName": "7E__",
-			"castName": "なな",
+			"vrcName": "baNana_7",
+			"castName": "Nana",
 			"roll": "cast"
 		},
 		{
@@ -32,17 +32,27 @@
 		},
 		{
 			"vrcName": "ショウガ３",
-			"castName": "ショウ",
+			"castName": "ショウガ３",
 			"roll": "cast"
 		},
 		{
 			"vrcName": "駄天使ぼたん",
-			"castName": "駄天使ぼたん",
+			"castName": "ぼたん",
 			"roll": "cast"
 		},
 		{
 			"vrcName": "Nana8a",
 			"castName": "ななは",
+			"roll": "cast"
+		},
+		{
+			"vrcName": "美海 -miu-",
+			"castName": "miu",
+			"roll": "cast"
+		},
+		{
+			"vrcName": "まこ Mako",
+			"castName": "まこ",
 			"roll": "cast"
 		}
 	]
