@@ -125,6 +125,15 @@
 			"panelId": 0,
 			"roll": "private",
 			"option": "0"
+		},
+		{
+			"vrcName": "リクインNPC078",
+			"castName": "リクインNPC078",
+			"type": "dummy",
+			"profile": "dummy",
+			"panelId": 0,
+			"roll": "private",
+			"option": "0"
 		}
 	]
 }
