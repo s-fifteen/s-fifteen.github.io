@@ -37,15 +37,6 @@
 			"option": "1"
 		},
 		{
-			"vrcName": "baNana_7",
-			"castName": "なな",
-			"type": "ランダムでドキドキ",
-			"profile": "会えてラッキーだね。\n今日はどこまで許してくれる？",
-			"panelId": 5,
-			"roll": "cast",
-			"option": "1"
-		},
-		{
 			"vrcName": "ィおり。",
 			"castName": "ィおり。",
 			"type": "友達感、イチャイチャ、愛でる",
@@ -119,7 +110,7 @@
 		},
 		{
 			"vrcName": "リクインNPC",
-			"castName": "リクインNPC",
+			"castName": "Fifteen",
 			"type": "dummy",
 			"profile": "dummy",
 			"panelId": 0,
@@ -134,6 +125,33 @@
 			"panelId": 0,
 			"roll": "private",
 			"option": "0"
+		},
+		{
+			"vrcName": "あでまる。",
+			"castName": "あでまる。",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 14,
+			"roll": "private",
+			"option": "1"
+		},
+		{
+			"vrcName": "yura_00",
+			"castName": "ゆら",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 15,
+			"roll": "private",
+			"option": "1"
+		},
+		{
+			"vrcName": "美海 -miu-",
+			"castName": "miu",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 16,
+			"roll": "private",
+			"option": "1"
 		}
 	]
 }
