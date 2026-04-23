@@ -179,6 +179,15 @@
 			"panelId": 19,
 			"roll": "private",
 			"option": "AB"
+		},
+		{
+			"vrcName": "shin06v",
+			"castName": "しのぶ",
+			"type": "会話メインたまに撫で",
+			"profile": "しのぶです。\n初めてのキャストで緊張してます😿\n一緒におはなししてくれる？",
+			"panelId": 20,
+			"roll": "private",
+			"option": "AB"
 		}
 	]
 }
