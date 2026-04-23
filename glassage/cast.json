@@ -1,15 +1,6 @@
 {
 	"cast": [
 		{
-			"vrcName": "リクインNPC",
-			"castName": "Fifteen",
-			"type": "dummy",
-			"profile": "dummy",
-			"panelId": 0,
-			"roll": "private",
-			"option": "AB"
-		},
-		{
 			"vrcName": "Fifteen_1515",
 			"castName": "Fifteen",
 			"type": "なんでもあり",
@@ -163,20 +154,11 @@
 			"option": "A"
 		},
 		{
-			"vrcName": "亜茉-ama-",
-			"castName": "亜茉",
-			"type": "会話と撫で撫で、時々××",
-			"profile": "やほ～あまだよ。\n今日はどうかした？\nお姉ちゃんにたくさん甘えていいからね。\nさあ、胸に飛び込んでおいで。",
-			"panelId": 18,
-			"roll": "precast",
-			"option": "B"
-		},
-		{
 			"vrcName": "Libell - りべる",
 			"castName": "りべる",
 			"type": "お喋り・近距離・甘やかし",
 			"profile": "元気でうるさい酒クズおねーさんバニー！\nお喋り好きには楽しい時間を、\nお疲れ気味のお客様には甘い時間を。\n逆に甘えてくることもあるかも…？",
-			"panelId": 19,
+			"panelId": 18,
 			"roll": "private",
 			"option": "AB"
 		},
@@ -185,7 +167,7 @@
 			"castName": "しのぶ",
 			"type": "会話メインたまに撫で",
 			"profile": "しのぶです。\n初めてのキャストで緊張してます😿\n一緒におはなししてくれる？",
-			"panelId": 20,
+			"panelId": 19,
 			"roll": "private",
 			"option": "AB"
 		}
