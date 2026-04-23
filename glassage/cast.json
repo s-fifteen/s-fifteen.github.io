@@ -1,6 +1,15 @@
 {
 	"cast": [
 		{
+			"vrcName": "リクインNPC",
+			"castName": "Fifteen",
+			"type": "dummy",
+			"profile": "dummy",
+			"panelId": 0,
+			"roll": "staff",
+			"option": "AB"
+		},
+		{
 			"vrcName": "Fifteen_1515",
 			"castName": "Fifteen",
 			"type": "なんでもあり",
