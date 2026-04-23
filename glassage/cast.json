@@ -1,6 +1,15 @@
 {
 	"cast": [
 		{
+			"vrcName": "リクインNPC",
+			"castName": "Fifteen",
+			"type": "dummy",
+			"profile": "dummy",
+			"panelId": 0,
+			"roll": "private",
+			"option": "AB"
+		},
+		{
 			"vrcName": "Fifteen_1515",
 			"castName": "Fifteen",
 			"type": "なんでもあり",
@@ -161,15 +170,6 @@
 			"panelId": 18,
 			"roll": "precast",
 			"option": "B"
-		},
-		{
-			"vrcName": "リクインNPC",
-			"castName": "Fifteen",
-			"type": "dummy",
-			"profile": "dummy",
-			"panelId": -1,
-			"roll": "private",
-			"option": "AB"
 		},
 		{
 			"vrcName": "Libell - りべる",
