@@ -1,6 +1,24 @@
 {
 	"cast": [
 		{
+			"vrcName": "リクインNPC",
+			"castName": "Fifteen",
+			"type": "dummy",
+			"profile": "dummy",
+			"panelId": 0,
+			"roll": "staff",
+			"option": "0"
+		},
+		{
+			"vrcName": "リクインNPC078",
+			"castName": "ななは ",
+			"type": "dummy",
+			"profile": "dummy",
+			"panelId": 0,
+			"roll": "staff",
+			"option": "0"
+		},
+		{
 			"vrcName": "Fifteen_1515",
 			"castName": "Fifteen",
 			"type": "なんでもあり",
@@ -41,7 +59,7 @@
 			"castName": "ィおり。",
 			"type": "友達感、イチャイチャ、愛でる",
 			"profile": "たーっくさん愛でたい\n色んなお話しをしてあなたの事知りたいな\nオトナのバニーを味わいたい方はぜひ私へ…",
-			"panelId": 6,
+			"panelId": 5,
 			"roll": "cast",
 			"option": "1"
 		},
@@ -50,7 +68,7 @@
 			"castName": "さこつ",
 			"type": "お喋り、近距離",
 			"profile": "のんびりマイペースなお姉さん。\nお酒片手に、ゆるく穏やかにお話ししましょ。",
-			"panelId": 7,
+			"panelId": 6,
 			"roll": "cast",
 			"option": "1"
 		},
@@ -59,7 +77,7 @@
 			"castName": "らい",
 			"type": "おはなし/のんびり/甘やかし",
 			"profile": "はじめましてっ♡\nバニーのらいちゃんだよ〜！\n甘いものと楽しいおしゃべりがだ〜いすき！\nあなたにたくさん癒しと元気をお届けしちゃいますっ！！\n仲良くしてくれたら、ぴょんぴょん喜ぶかも…？ ",
-			"panelId": 8,
+			"panelId": 7,
 			"roll": "cast",
 			"option": "1"
 		},
@@ -68,7 +86,7 @@
 			"castName": "ちづ",
 			"type": "お喋り/超近距離/いちゃいちゃ",
 			"profile": "まっしろうさぎの ちづ です！\n楽しいお喋りから甘々密着接客まで…♡\n皆様にお会いしたくてうずうずしてます！\nふたりきりの世界、満喫しようね♡",
-			"panelId": 9,
+			"panelId": 8,
 			"roll": "cast",
 			"option": "1"
 		},
@@ -77,7 +95,7 @@
 			"castName": "LeÍa",
 			"type": "お喋り・いちゃいちゃ・近距離",
 			"profile": "お喋りも、近距離でドキドキする時間も好き✨\n照れたり慌てたりするところ見るのも好き💖\nここだけの特別な時間を一緒に甘く過ごそうね？",
-			"panelId": 10,
+			"panelId": 9,
 			"roll": "cast",
 			"option": "1"
 		},
@@ -86,7 +104,7 @@
 			"castName": "りべる",
 			"type": "お喋り・近距離・甘やかし",
 			"profile": "元気でうるさい酒クズおねーさんバニー！\nお喋り好きには楽しい時間を、\nお疲れ気味のお客様には甘い時間を。\n逆に甘えてくることもあるかも…？",
-			"panelId": 11,
+			"panelId": 10,
 			"roll": "cast",
 			"option": "1"
 		},
@@ -95,7 +113,7 @@
 			"castName": "レティ",
 			"type": "近距離/イチャイチャ/してほしいことな～んでもっ",
 			"profile": "ふたりっきりで秘密の時間を過ごしましょう💕\nいつもよりちょっぴり大胆な私に会いに来てねっ🫶✨",
-			"panelId": 12,
+			"panelId": 11,
 			"roll": "cast",
 			"option": "1"
 		},
@@ -104,43 +122,25 @@
 			"castName": "じりあ",
 			"type": "イチャイチャとかもお好みで",
 			"profile": "じりあです\nやってみたいことがあったら教えてくださいね",
-			"panelId": 13,
+			"panelId": 12,
 			"roll": "cast",
 			"option": "1"
-		},
-		{
-			"vrcName": "リクインNPC",
-			"castName": "Fifteen",
-			"type": "dummy",
-			"profile": "dummy",
-			"panelId": 0,
-			"roll": "private",
-			"option": "0"
-		},
-		{
-			"vrcName": "リクインNPC078",
-			"castName": "ななは ",
-			"type": "dummy",
-			"profile": "dummy",
-			"panelId": 0,
-			"roll": "private",
-			"option": "0"
 		},
 		{
 			"vrcName": "あでまる。",
 			"castName": "あでまる。",
 			"type": "接客タイプ",
 			"profile": "プロフィール",
-			"panelId": 14,
+			"panelId": 13,
 			"roll": "private",
 			"option": "1"
 		},
 		{
 			"vrcName": "yura_00",
 			"castName": "ゆら",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
-			"panelId": 15,
+			"type": "お喋り・甘やかし・近距離",
+			"profile": "お喋りも触れ合いも、その先のドキドキも♡\nあなたの望みを聞かせてね\n二人きりで特別な時間を過ごしましょう！",
+			"panelId": 14,
 			"roll": "private",
 			"option": "1"
 		},
@@ -149,7 +149,52 @@
 			"castName": "miu",
 			"type": "接客タイプ",
 			"profile": "プロフィール",
+			"panelId": 15,
+			"roll": "private",
+			"option": "1"
+		},
+		{
+			"vrcName": "˗ˏˋ mqmq ˎˊ˗",
+			"castName": "もきゅ",
+			"type": "おはなし・甘々・ガチ恋距離♡",
+			"profile": "最高に甘くて、幸せな時間をお届け♡\nどんなあなたも、もきゅの純白でどろどろに溶かして\n何も考えられなくしてあげる。\nここはふたりだけの楽園、待ってるよ。",
 			"panelId": 16,
+			"roll": "private",
+			"option": "1"
+		},
+		{
+			"vrcName": "松風 はな",
+			"castName": "はな",
+			"type": "おしゃべり、甘やかし",
+			"profile": "おしゃべり大好き！ふたりでいっぱい一緒に楽しみましょうね♡",
+			"panelId": 17,
+			"roll": "private",
+			"option": "1"
+		},
+		{
+			"vrcName": "ねこあま",
+			"castName": "あま",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 18,
+			"roll": "private",
+			"option": "1"
+		},
+		{
+			"vrcName": "シアン -shian-",
+			"castName": "シアン",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 19,
+			"roll": "private",
+			"option": "1"
+		},
+		{
+			"vrcName": "_phi",
+			"castName": "ふぁい",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 20,
 			"roll": "private",
 			"option": "1"
 		}
