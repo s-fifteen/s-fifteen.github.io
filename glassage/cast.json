@@ -39,8 +39,8 @@
 		{
 			"vrcName": "Angelaaki824",
 			"castName": "アンジェラあき",
-			"type": "雑談/撫で/距離近",
-			"profile": "悪魔とサキュバスのハーフだけど、いっぱいおしゃべりとナデナデで妹としていっぱい癒します！\n私でいっぱい癒されて行ってね！！",
+			"type": "お喋り/撫で/囁き/耳もぐもぐ(´～｀)",
+			"profile": "アンジェラあきって言います。\nよく「本物？」と訊かれますが、よくわかりません。私は私なので本物です。\nアメリカ育ちなので大胆に思われるかもしれませんが、\nこのくらい向こうでは普通です。（たぶん）",
 			"panelId": 4,
 			"roll": "cast",
 			"option": "A"
@@ -177,6 +177,33 @@
 			"type": "会話メインたまに撫で",
 			"profile": "しのぶです。\n初めてのキャストで緊張してます😿\n一緒におはなししてくれる？",
 			"panelId": 19,
+			"roll": "private",
+			"option": "AB"
+		},
+		{
+			"vrcName": "tuti5000",
+			"castName": "ツチ",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 20,
+			"roll": "private",
+			"option": "AB"
+		},
+		{
+			"vrcName": "ame0601",
+			"castName": "あめ",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 21,
+			"roll": "private",
+			"option": "AB"
+		},
+		{
+			"vrcName": "UZ_ZZ",
+			"castName": "ゆず",
+			"type": "ゆる〜く会話メイン。ご要望があればなんでも",
+			"profile": "ゆずって言います🍊\n緊張しちゃうかもだけど、\n私といっぱい楽しい時間を過ごそうね♡\n貴方のこともっといっぱい教えて？",
+			"panelId": 22,
 			"roll": "private",
 			"option": "AB"
 		}
