@@ -100,20 +100,11 @@
 			"option": "1"
 		},
 		{
-			"vrcName": "Libell - りべる",
-			"castName": "りべる",
-			"type": "お喋り・近距離・甘やかし",
-			"profile": "元気でうるさい酒クズおねーさんバニー！\nお喋り好きには楽しい時間を、\nお疲れ気味のお客様には甘い時間を。\n逆に甘えてくることもあるかも…？",
-			"panelId": 10,
-			"roll": "cast",
-			"option": "1"
-		},
-		{
 			"vrcName": "レティシア＠VR",
 			"castName": "レティ",
 			"type": "近距離/イチャイチャ/してほしいことな～んでもっ",
 			"profile": "ふたりっきりで秘密の時間を過ごしましょう💕\nいつもよりちょっぴり大胆な私に会いに来てねっ🫶✨",
-			"panelId": 11,
+			"panelId": 10,
 			"roll": "cast",
 			"option": "1"
 		},
@@ -122,7 +113,7 @@
 			"castName": "じりあ",
 			"type": "イチャイチャとかもお好みで",
 			"profile": "じりあです\nやってみたいことがあったら教えてくださいね",
-			"panelId": 12,
+			"panelId": 11,
 			"roll": "cast",
 			"option": "1"
 		},
@@ -131,7 +122,7 @@
 			"castName": "あでまる。",
 			"type": "接客タイプ",
 			"profile": "プロフィール",
-			"panelId": 13,
+			"panelId": 12,
 			"roll": "private",
 			"option": "1"
 		},
@@ -140,16 +131,16 @@
 			"castName": "ゆら",
 			"type": "お喋り・甘やかし・近距離",
 			"profile": "お喋りも触れ合いも、その先のドキドキも♡\nあなたの望みを聞かせてね\n二人きりで特別な時間を過ごしましょう！",
-			"panelId": 14,
+			"panelId": 13,
 			"roll": "private",
 			"option": "1"
 		},
 		{
 			"vrcName": "美海 -miu-",
 			"castName": "miu",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
-			"panelId": 15,
+			"type": "お喋り・イチャイチャ・弄び\n（好感度変動）",
+			"profile": "色々おっきなブロンドエルフバニー\nあなたの楽しむ姿勢が私を”その気”にさせます♡\n緊張してガチガチになっちゃう子にはいじわるしちゃうかも♡",
+			"panelId": 14,
 			"roll": "private",
 			"option": "1"
 		},
@@ -158,16 +149,16 @@
 			"castName": "もきゅ",
 			"type": "おはなし・甘々・ガチ恋距離♡",
 			"profile": "最高に甘くて、幸せな時間をお届け♡\nどんなあなたも、もきゅの純白でどろどろに溶かして\n何も考えられなくしてあげる。\nここはふたりだけの楽園、待ってるよ。",
-			"panelId": 16,
+			"panelId": 15,
 			"roll": "private",
 			"option": "1"
 		},
 		{
-			"vrcName": "松風 はな",
+			"vrcName": "松風はな",
 			"castName": "はな",
 			"type": "おしゃべり、甘やかし",
 			"profile": "おしゃべり大好き！ふたりでいっぱい一緒に楽しみましょうね♡",
-			"panelId": 17,
+			"panelId": 16,
 			"roll": "private",
 			"option": "1"
 		},
@@ -176,16 +167,16 @@
 			"castName": "あま",
 			"type": "接客タイプ",
 			"profile": "プロフィール",
-			"panelId": 18,
+			"panelId": 17,
 			"roll": "private",
 			"option": "1"
 		},
 		{
 			"vrcName": "シアン -shian-",
 			"castName": "シアン",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
-			"panelId": 19,
+			"type": "あまあまイチャイチャ接客",
+			"profile": "こんにちは～シアンちゃんだよ～！\nrabristaへようこそ～！\nあまあまでドキドキする時間を一緒に過ごそうね♡",
+			"panelId": 18,
 			"roll": "private",
 			"option": "1"
 		},
@@ -194,7 +185,34 @@
 			"castName": "ふぁい",
 			"type": "接客タイプ",
 			"profile": "プロフィール",
+			"panelId": 19,
+			"roll": "private",
+			"option": "1"
+		},
+		{
+			"vrcName": "いななほ",
+			"castName": "いななほ",
+			"type": "近距離イチャイチャ接客・ＡＳＭＲ・小悪魔後輩ＲＰ",
+			"profile": "――せんぱ～い♡\n小悪魔後輩の〝いななほ〟です//♡\n今夜は～、年下後輩にたくさん……！\n甘やかされてくださいね～✨",
 			"panelId": 20,
+			"roll": "private",
+			"option": "1"
+		},
+		{
+			"vrcName": "レドムン／redmun",
+			"castName": "レドムン",
+			"type": "おはなし・ささやき・いちゃいちゃ",
+			"profile": "ふたりきりの、甘くてとろける特別な時間を...💕\nお姉さんバニーとた～くさん楽しみましょうねっ",
+			"panelId": 21,
+			"roll": "private",
+			"option": "1"
+		},
+		{
+			"vrcName": "いちや_ICHIYA",
+			"castName": "いちや",
+			"type": "なでなで・お喋り",
+			"profile": "なでなで大好き！おしゃべりしながらのんびり過ごしたいな♡",
+			"panelId": 22,
 			"roll": "private",
 			"option": "1"
 		}
