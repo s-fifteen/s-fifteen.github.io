@@ -206,6 +206,15 @@
 			"panelId": 22,
 			"roll": "private",
 			"option": "AB"
+		},
+		{
+			"vrcName": "yamada0224",
+			"castName": "山田",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 23,
+			"roll": "private",
+			"option": "AB"
 		}
 	]
 }
