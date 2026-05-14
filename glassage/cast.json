@@ -177,44 +177,35 @@
 			"type": "会話メインたまに撫で",
 			"profile": "しのぶです。\n初めてのキャストで緊張してます😿\n一緒におはなししてくれる？",
 			"panelId": 19,
-			"roll": "private",
-			"option": "AB"
-		},
-		{
-			"vrcName": "tuti5000",
-			"castName": "ツチ",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
-			"panelId": 20,
-			"roll": "private",
-			"option": "AB"
+			"roll": "cast",
+			"option": "B"
 		},
 		{
 			"vrcName": "ame0601",
 			"castName": "あめ",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
-			"panelId": 21,
-			"roll": "private",
-			"option": "AB"
+			"type": "おしゃべりが中心で、撫でもあるかも…？",
+			"profile": "あめです🍭\n楽しいと思う時はおしゃべりをしているとき！\n2人で楽しく過ごせたらそれって素敵じゃない？",
+			"panelId": 20,
+			"roll": "cast",
+			"option": "B"
 		},
 		{
 			"vrcName": "UZ_ZZ",
 			"castName": "ゆず",
 			"type": "ゆる〜く会話メイン。ご要望があればなんでも",
 			"profile": "ゆずって言います🍊\n緊張しちゃうかもだけど、\n私といっぱい楽しい時間を過ごそうね♡\n貴方のこともっといっぱい教えて？",
-			"panelId": 22,
-			"roll": "private",
+			"panelId": 21,
+			"roll": "cast",
 			"option": "AB"
 		},
 		{
 			"vrcName": "yamada0224",
 			"castName": "山田",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
-			"panelId": 23,
-			"roll": "private",
-			"option": "AB"
+			"type": "お喋りメイン・たまに近距離？",
+			"profile": "お酒がだいすきな山田だよー！\n初めてのキャストで緊張するけど、\nみんなといーっぱいお喋りしたいな♡",
+			"panelId": 22,
+			"roll": "cast",
+			"option": "B"
 		}
 	]
 }
