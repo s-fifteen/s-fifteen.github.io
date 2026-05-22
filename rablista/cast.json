@@ -19,6 +19,15 @@
 			"option": "0"
 		},
 		{
+			"vrcName": "あんこ_ev",
+			"castName": "あんこ",
+			"type": "dummy",
+			"profile": "dummy",
+			"panelId": 0,
+			"roll": "staff",
+			"option": "0"
+		},
+		{
 			"vrcName": "Fifteen_1515",
 			"castName": "Fifteen",
 			"type": "なんでもあり",
@@ -168,7 +177,7 @@
 			"type": "おしゃべり・近距離・甘やかし",
 			"profile": "のんびりした時間も、少し刺激のある時間も好きなバニーです♡\nあなたとどんなひとときになるかは、会ってからのお楽しみ…♡",
 			"panelId": 17,
-			"roll": "private",
+			"roll": "cast",
 			"option": "1"
 		},
 		{
@@ -213,7 +222,16 @@
 			"type": "なでなで・お喋り",
 			"profile": "なでなで大好き！おしゃべりしながらのんびり過ごしたいな♡",
 			"panelId": 22,
-			"roll": "private",
+			"roll": "cast",
+			"option": "1"
+		},
+		{
+			"vrcName": "Libell - りべる",
+			"castName": "りべる",
+			"type": "お喋り・イチャイチャ・甘やかし/甘えんぼ",
+			"profile": "一緒に軽く飲んで、その後はずっとくっついていようね。私も話すから、あなたのコトも沢山教えて？あと、お姉さんだって甘えたい時くらいあります……優しい方には思い切り甘えちゃおっかな？",
+			"panelId": 23,
+			"roll": "cast",
 			"option": "1"
 		}
 	]
