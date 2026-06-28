@@ -206,6 +206,15 @@
 			"panelId": 22,
 			"roll": "cast",
 			"option": "B"
+		},
+		{
+			"vrcName": "ギンスズメ",
+			"castName": "ギンスズメ",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 23,
+			"roll": "cast",
+			"option": "AB"
 		}
 	]
 }
