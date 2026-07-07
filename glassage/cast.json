@@ -10,6 +10,15 @@
 			"option": "AB"
 		},
 		{
+			"vrcName": "jylia_ev",
+			"castName": "じりあ",
+			"type": "dummy",
+			"profile": "dummy",
+			"panelId": 0,
+			"roll": "staff",
+			"option": "AB"
+		},
+		{
 			"vrcName": "Fifteen_1515",
 			"castName": "Fifteen",
 			"type": "なんでもあり",
@@ -96,7 +105,7 @@
 			"type": "会話、撫で、甘やかし",
 			"profile": "さやのこと見つけてくれてありがとう~!\n一緒に甘い時間過ごしていかない？\nリラックスして日頃の疲れも吹き飛ばそっ♡",
 			"panelId": 10,
-			"roll": "suspend",
+			"roll": "cast",
 			"option": "A"
 		},
 		{
@@ -210,8 +219,8 @@
 		{
 			"vrcName": "ギンスズメ",
 			"castName": "ギンスズメ",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "お喋りメインだけど、ご要望には大体応えるよ",
+			"profile": "ギンスズメです。\nときどきドキドキ♡ギリギリ会話で\nほろ酔い気分も吹っ飛ばしちゃうかもね？",
 			"panelId": 23,
 			"roll": "cast",
 			"option": "AB"
