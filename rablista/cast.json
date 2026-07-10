@@ -23,7 +23,7 @@
 			"castName": "あんこ",
 			"type": "dummy",
 			"profile": "dummy",
-			"panelId": 23,
+			"panelId": 0,
 			"roll": "staff",
 			"option": "0"
 		},
@@ -224,6 +224,15 @@
 			"panelId": 22,
 			"roll": "cast",
 			"option": "1"
+		},
+		{
+			"vrcName": "dummy",
+			"castName": "あんこ",
+			"type": "dummy",
+			"profile": "dummy",
+			"panelId": 23,
+			"roll": "cast",
+			"option": "0"
 		}
 	]
 }
