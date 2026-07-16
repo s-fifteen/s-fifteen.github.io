@@ -449,6 +449,15 @@
 			"panelId": 0,
 			"roll": "staff",
 			"option": "0"
+		},
+		{
+			"vrcName": "wasao（わさお）",
+			"castName": "わさお",
+			"type": "dummy",
+			"profile": "dummy",
+			"panelId": 0,
+			"roll": "staff",
+			"option": "0"
 		}
 	]
 }
