@@ -1,0 +1,454 @@
+{
+	"cast": [
+		{
+			"vrcName": "Fifteen_1515",
+			"castName": "Fifteen",
+			"type": "なんでもあり",
+			"profile": "主催のFifteenです。\nこの世全てのバニー好きたちへ――\n最高の一日にしましょう。",
+			"panelId": 0,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "Nana8a",
+			"castName": "ななは",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 1,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "しいたけ냐",
+			"castName": "しい",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 2,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "じりじりあ",
+			"castName": "じりあ",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 3,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "た～し～",
+			"castName": "た～し～",
+			"type": "貴方がしたいことしましょ？",
+			"profile": "バニーが好きでお誘い頂いちゃいましたっ！🐇\n近い距離でお話して、撫でたり囁いたりするのもされるのも好きー！\n一緒にひと夏の想い出作りませんか？",
+			"panelId": 4,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "のんちゃん。",
+			"castName": "のんちゃん。",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 5,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "レガシーコード",
+			"castName": "れがしー",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 6,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "たかなしみるく",
+			"castName": "たかなしみるく",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 7,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "真白-ましろ-",
+			"castName": "ましろ",
+			"type": "近距離甘やかし、時々いじわる",
+			"profile": "素敵なバニー姿の私と素敵で甘い時間を過ごしましょうね♡",
+			"panelId": 8,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "にゃ～んワニですワン！",
+			"castName": "にゃ～んワニですワン！",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 9,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "白野_アウ",
+			"castName": "白野アウ",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 10,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "なちぼー（よふかし）",
+			"castName": "なちぼー",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 11,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "ChienNoiR",
+			"castName": "しあん・のわーる",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 12,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "Akarin_nano",
+			"castName": "なの",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 13,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "兎ののの",
+			"castName": "兎ののの",
+			"type": "いちゃいちゃ、溶かし、近距離",
+			"profile": "バニーな、ののと一夜の甘いひと時を♪いっぱい甘々いちゃいちゃしようね♡",
+			"panelId": 14,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "寝落ちのながと",
+			"castName": "ながと",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 15,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "いちや_ICHIYA",
+			"castName": "いちや",
+			"type": "なでなで・お喋り",
+			"profile": "なでなで大好き！おしゃべりしながらのんびり過ごしたいな♡",
+			"panelId": 16,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "松風 はな",
+			"castName": "はな",
+			"type": "お喋りと、いちゃいちゃも…？♡",
+			"profile": "いーっぱいお話して、いちゃいちゃもして、私の事好きになって？♡",
+			"panelId": 17,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "LeÍa",
+			"castName": "LeÍa",
+			"type": "お喋り・いちゃいちゃ・近距離",
+			"profile": "お喋りも、近距離でドキドキする時間も好き✨\n照れたり慌てたりするところ見るのも好き💖\nここだけの特別な時間を一緒に甘く過ごそうね？",
+			"panelId": 18,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "あでまる。",
+			"castName": "あでまる。",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 19,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "yura_00",
+			"castName": "ゆら",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 20,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "しろあり。",
+			"castName": "しろあり。",
+			"type": "いちゃいちゃメイン",
+			"profile": "プロフィール",
+			"panelId": 21,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "riser61",
+			"castName": "らい",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 22,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "けいと、",
+			"castName": "けいと",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 23,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "Angelaaki824",
+			"castName": "アンジェラあき",
+			"type": "お喋り・撫で・あまあま近距離いちゃいちゃ・だけで済むと思うなよ",
+			"profile": "ロリ巨乳容認派の方はここへ　あまあまでいちゃいちゃでメロメロにさせちゃうぞ☆ミ",
+			"panelId": 24,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "Siyuri-しゆり",
+			"castName": "しゆり",
+			"type": "お喋り・いちゃいちゃ・近距離",
+			"profile": "久々バニーのわたしと一緒に過ごしてくれる方はだーれだっ？💕いっぱい楽しもうねっ💕",
+			"panelId": 25,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "yamada0224",
+			"castName": "山田",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 26,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "ふらふらすてら",
+			"castName": "ふらふらすてら",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 27,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "座敷童。",
+			"castName": "座敷童。",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 28,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "Libell - りべる",
+			"castName": "りべる",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 29,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "レナ（RENA）",
+			"castName": "レナ",
+			"type": "甘やかし・意地悪",
+			"profile": "甘やかすのも意地悪するのも大好きです♪",
+			"panelId": 30,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "りと（Rito_VRC）",
+			"castName": "りと",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 31,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "レティシア＠VR",
+			"castName": "レティシア",
+			"type": "なんでもOK",
+			"profile": "私といっしょに甘々いちゃいちゃしましょーっ❤",
+			"panelId": 32,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "sakotsu4",
+			"castName": "鎖骨",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 33,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "シアン -shian-",
+			"castName": "シアン",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 34,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "美海 -miu-",
+			"castName": "miu",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 35,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "nochi（のっち）",
+			"castName": "のっち",
+			"type": "お望みのままに",
+			"profile": "お話でも撫ででもそれ以上でも\n望んだままにお応えします\n貴方のこと色々教えてくださいね？",
+			"panelId": 36,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "さや__",
+			"castName": "さや",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 37,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "Snow∗暁",
+			"castName": "スノウ",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 38,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "パン工房",
+			"castName": "パン工房",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 39,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "いななほ",
+			"castName": "いななほ",
+			"type": "小悪魔後輩ＲＰ・ＡＳＭＲ・近距離イチャイチャ",
+			"profile": "――せんぱ～い♡\n小悪魔後輩の〝いななほ〟です//♡\n今夜は～、年下後輩にたくさん……！\n甘やかされてくださいね～✨",
+			"panelId": 40,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "ぽむちめが",
+			"castName": "ぽむちめが",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 41,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "みみ__",
+			"castName": "みみ",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 42,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "_phi",
+			"castName": "ふぁい",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 43,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "ぶる〜ど",
+			"castName": "ぶる〜ど",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 44,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "zzzおひつじzzz",
+			"castName": "おひつじ",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 45,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "くらげ＼Kurage",
+			"castName": "くらげ",
+			"type": "あまあま近距離、いたずら、撫で",
+			"profile": "プロフィール",
+			"panelId": 46,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "˗ˏˋ mqmq ˎˊ˗",
+			"castName": "もきゅ",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 47,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "あんこ_ev",
+			"castName": "あんこ",
+			"type": "dummy",
+			"profile": "dummy",
+			"panelId": 0,
+			"roll": "staff",
+			"option": "0"
+		},
+		{
+			"vrcName": "龍龍×4",
+			"castName": "龍龍×2",
+			"type": "dummy",
+			"profile": "dummy",
+			"panelId": 0,
+			"roll": "staff",
+			"option": "0"
+		}
+	]
+}
