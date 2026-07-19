@@ -231,7 +231,7 @@
 			"type": "dummy",
 			"profile": "dummy",
 			"panelId": 23,
-			"roll": "cast",
+			"roll": "private",
 			"option": "0"
 		}
 	]
