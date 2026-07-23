@@ -1,0 +1,229 @@
+{
+	"cast": [
+		{
+			"vrcName": "リクインNPC",
+			"castName": "Fifteen",
+			"type": "dummy",
+			"profile": "dummy",
+			"panelId": 0,
+			"roll": "staff",
+			"option": "AB"
+		},
+		{
+			"vrcName": "jylia_ev",
+			"castName": "じりあ",
+			"type": "dummy",
+			"profile": "dummy",
+			"panelId": 0,
+			"roll": "staff",
+			"option": "AB"
+		},
+		{
+			"vrcName": "Fifteen_1515",
+			"castName": "Fifteen",
+			"type": "なんでもあり",
+			"profile": "主催のFifteenです。好きに呼んでください。\n全ての眼鏡が好きで、このイベントを作りました。\n\nあなたのしたいこと、ぜんぶいいよ。",
+			"panelId": 1,
+			"roll": "cast",
+			"option": "AB"
+		},
+		{
+			"vrcName": "じりじりあ",
+			"castName": "じりあ",
+			"type": "お好みで",
+			"profile": "じりあでございます。\n運営のお手伝いをしている事の方が多いかと思いますが、\nもしお相手させて頂く事がありましたら楽しい時間を過ごしましょうね。",
+			"panelId": 2,
+			"roll": "cast",
+			"option": "AB"
+		},
+		{
+			"vrcName": "nochi（のっち）",
+			"castName": "のっち",
+			"type": "お望みのまま",
+			"profile": "Yo!Say!夏が胸を刺激する",
+			"panelId": 3,
+			"roll": "cast",
+			"option": "AB"
+		},
+		{
+			"vrcName": "Angelaaki824",
+			"castName": "アンジェラあき",
+			"type": "お喋り/撫で/囁き/耳もぐもぐ(´～｀)",
+			"profile": "アンジェラあきって言います。\nよく「本物？」と訊かれますが、よくわかりません。私は私なので本物です。\nアメリカ育ちなので大胆に思われるかもしれませんが、\nこのくらい向こうでは普通です。（たぶん）",
+			"panelId": 4,
+			"roll": "cast",
+			"option": "A"
+		},
+		{
+			"vrcName": "ショウガ３",
+			"castName": "ショウガ３",
+			"type": "お喋りしながら撫でナデ、近めも遠めも好き💜",
+			"profile": "紫の夢魔お姉さん～膝枕が得意。\n眼鏡が好き過ぎて、気付いたらココに居たの。貴方を癒せるよう頑張るね＾＾\n好みのタイプは眼鏡が似合う人～皆さんの眼鏡姿も見てみたいな♪",
+			"panelId": 5,
+			"roll": "cast",
+			"option": "AB"
+		},
+		{
+			"vrcName": "kozamё",
+			"castName": "kozamё",
+			"type": "会話メイン",
+			"profile": "こんばんは🌙\n今日は水着を着てみたんだけど...どうかな？\n似合ってたら嬉しいな",
+			"panelId": 6,
+			"roll": "cast",
+			"option": "B"
+		},
+		{
+			"vrcName": "レガシーコード",
+			"castName": "れがしー",
+			"type": "会話と撫で撫で、距離近め",
+			"profile": "じゃらじゃらした眼鏡が好きな、れがしーです。\nそばに寄り添う安心感とやすらぎ、そして少しのドキドキをお届けします。",
+			"panelId": 7,
+			"roll": "cast",
+			"option": "A"
+		},
+		{
+			"vrcName": "憂闇ヤマヰ",
+			"castName": "憂闇ヤマヰ",
+			"type": "なんでもどうぞ💛",
+			"profile": "キャストのヤマヰです。\n学校指定のスクール水着を引っ張り出してきたよ！",
+			"panelId": 8,
+			"roll": "cast",
+			"option": "A"
+		},
+		{
+			"vrcName": "uruhime",
+			"castName": "uru",
+			"type": "お話メインですがなんでもどうぞ🩵",
+			"profile": "おはこんにちわ🩵\nキャストのuruだよ~❕\nうると過ごして日頃の疲れ、取りませんか？\n気ままな猫さんですが犬みたいな性格してる…かも！？",
+			"panelId": 9,
+			"roll": "cast",
+			"option": "AB"
+		},
+		{
+			"vrcName": "さや__",
+			"castName": "さや",
+			"type": "会話、撫で、甘やかし",
+			"profile": "さやのこと見つけてくれてありがとう~!\n一緒に甘い時間過ごしていかない？\nリラックスして日頃の疲れも吹き飛ばそっ♡",
+			"panelId": 10,
+			"roll": "cast",
+			"option": "A"
+		},
+		{
+			"vrcName": "simi_56",
+			"castName": "しみ",
+			"type": "会話と撫で、甘やかしたい",
+			"profile": "しみです！\n今日は私と過ごして楽しいひとときを過ごしてみませんか？\n日頃の疲れや寂しさをいっぱい癒してあげるね〜",
+			"panelId": 11,
+			"roll": "cast",
+			"option": "B"
+		},
+		{
+			"vrcName": "しいたけ냐",
+			"castName": "しいたけ냐",
+			"type": "やわらかくおはなし/なで",
+			"profile": "しいたけにゃ です🍄🐈\n初キャスト緊張しています。\n好きなことのおはなしたくさんしよー！",
+			"panelId": 12,
+			"roll": "cast",
+			"option": "B"
+		},
+		{
+			"vrcName": "まよまる",
+			"castName": "まよまる",
+			"type": "お話と撫で",
+			"profile": "まよまるですっ！\n流れついちゃった～\n無人島でふたりきりってなんかドキドキだね♡",
+			"panelId": 13,
+			"roll": "cast",
+			"option": "AB"
+		},
+		{
+			"vrcName": "ぽむちめが",
+			"castName": "ぽむちめが",
+			"type": "ほろよいおしゃべり",
+			"profile": "でっかいお姉さんと無邪気にお話ししよーよ！\nとって食べたりしないから安心してね\nぐびぃ",
+			"panelId": 14,
+			"roll": "cast",
+			"option": "AB"
+		},
+		{
+			"vrcName": "結咲甘音",
+			"castName": "結咲甘音",
+			"type": "お話／撫で／膝枕",
+			"profile": "めいっぱい癒せるように頑張りますねっ…！\nあなたのお話聞かせて欲しいな♪\n会いに来てね、待ってるよっ♡",
+			"panelId": 15,
+			"roll": "cast",
+			"option": "A"
+		},
+		{
+			"vrcName": "Nana8a",
+			"castName": "ななは",
+			"type": "会話メイン",
+			"profile": "少し緊張しちゃうけど、ゆっくりお話できたらうれしいです。\n穏やかで優しい時間を一緒に過ごせたらいいな。",
+			"panelId": 16,
+			"roll": "cast",
+			"option": "AB"
+		},
+		{
+			"vrcName": "た～し～",
+			"castName": "た～し～",
+			"type": "お話しながらの撫でと囁きが得意です",
+			"profile": "初めまして！た～し～と申します\n今回、ゲストキャストとしてお招き頂きました\nレンズ越しの貴方を癒せるように頑張ります！",
+			"panelId": 17,
+			"roll": "private",
+			"option": "A"
+		},
+		{
+			"vrcName": "Libell - りべる",
+			"castName": "りべる",
+			"type": "お喋り・近距離・甘やかし",
+			"profile": "元気でうるさい酒クズおねーさんバニー！\nお喋り好きには楽しい時間を、\nお疲れ気味のお客様には甘い時間を。\n逆に甘えてくることもあるかも…？",
+			"panelId": 18,
+			"roll": "private",
+			"option": "AB"
+		},
+		{
+			"vrcName": "shin06v",
+			"castName": "しのぶ",
+			"type": "会話メインたまに撫で",
+			"profile": "しのぶです。\nお外もきみとならたまには良いかも🐱\nきみのために着た水着、褒めてくれる？",
+			"panelId": 19,
+			"roll": "cast",
+			"option": "B"
+		},
+		{
+			"vrcName": "ame0601",
+			"castName": "あめ",
+			"type": "おしゃべりが中心で、撫でもあるかも…？",
+			"profile": "あめです🍭\n楽しいと思う時はおしゃべりをしているとき！\n2人で楽しく過ごせたらそれって素敵じゃない？",
+			"panelId": 20,
+			"roll": "cast",
+			"option": "B"
+		},
+		{
+			"vrcName": "UZ_ZZ",
+			"castName": "ゆず",
+			"type": "ゆる〜く会話メイン。ご要望があればなんでも",
+			"profile": "ゆずって言います🍊\n緊張しちゃうかもだけど、\n私といっぱい楽しい時間を過ごそうね♡\n貴方のこともっといっぱい教えて？",
+			"panelId": 21,
+			"roll": "cast",
+			"option": "AB"
+		},
+		{
+			"vrcName": "yamada0224",
+			"castName": "山田",
+			"type": "お喋りメイン・たまに近距離？",
+			"profile": "夏は飲酒！山田です！\n無人島で二人っきり、ドキドキするね？♡",
+			"panelId": 22,
+			"roll": "cast",
+			"option": "B"
+		},
+		{
+			"vrcName": "ギンスズメ",
+			"castName": "ギンスズメ",
+			"type": "お喋りメインだけど、ご要望には大体応えるよ",
+			"profile": "ギンスズメです。\nときどきドキドキ♡ギリギリ会話で\nほろ酔い気分も吹っ飛ばしちゃうかもね？",
+			"panelId": 23,
+			"roll": "cast",
+			"option": "AB"
+		}
+	]
+}
