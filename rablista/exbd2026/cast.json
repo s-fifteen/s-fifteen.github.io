@@ -12,8 +12,8 @@
 		{
 			"vrcName": "Nana8a",
 			"castName": "ななは",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "のんびりおしゃべり",
+			"profile": "エクストラバニーデー！お喋りする？バランスゲームで遊ぶ？",
 			"panelId": 1,
 			"roll": "cast",
 			"option": "0"
@@ -48,8 +48,8 @@
 		{
 			"vrcName": "のんちゃん。",
 			"castName": "のんちゃん。",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "お喋り・いちゃいちゃ・近距離",
+			"profile": "最強悪魔のバニー姿見せてあげるんだから...いちゃいちゃした後...食べちゃってもいいよね💕",
 			"panelId": 5,
 			"roll": "cast",
 			"option": "0"
@@ -57,8 +57,8 @@
 		{
 			"vrcName": "レガシーコード",
 			"castName": "れがしー",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "近距離・なでいちゃ",
+			"profile": "お酒を飲みながら素敵なひと時を過ごしましょう～！",
 			"panelId": 6,
 			"roll": "cast",
 			"option": "0"
@@ -75,8 +75,8 @@
 		{
 			"vrcName": "真白-ましろ-",
 			"castName": "ましろ",
-			"type": "近距離甘やかし、時々いじわる",
-			"profile": "素敵なバニー姿の私と素敵で甘い時間を過ごしましょうね♡",
+			"type": "近距離囁き、甘やかし、いちゃいちゃ",
+			"profile": "お話したい？甘えたい？それとも溶かされたい...？貴方の好きな事、叶えてあげちゃいます♡",
 			"panelId": 8,
 			"roll": "cast",
 			"option": "0"
@@ -84,8 +84,8 @@
 		{
 			"vrcName": "にゃ～んワニですワン！",
 			"castName": "にゃ～んワニですワン！",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "酒酒酒/おしゃべり/溶かし",
+			"profile": "にゃ～んバニーですワン！",
 			"panelId": 9,
 			"roll": "cast",
 			"option": "0"
@@ -93,8 +93,8 @@
 		{
 			"vrcName": "白野_アウ",
 			"castName": "白野アウ",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "変幻自在！",
+			"profile": "かわいいうさぎさんがあらわれた！\nあなたのことがきになってこちらをみている！\nあいにいきますか？\n（はい・はい！）",
 			"panelId": 10,
 			"roll": "cast",
 			"option": "0"
@@ -111,8 +111,8 @@
 		{
 			"vrcName": "ChienNoiR",
 			"castName": "しあん・のわーる",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "近距離・いちゃいちゃ・溶かし",
+			"profile": "近くでお話したり、甘えたり甘やかしたりするのが好きなバニーです💕\n今夜は私と一緒に、とろとろに溶けちゃおうね🐇",
 			"panelId": 12,
 			"roll": "cast",
 			"option": "0"
@@ -120,8 +120,8 @@
 		{
 			"vrcName": "Akarin_nano",
 			"castName": "なの",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "飲酒・トーク・喫煙",
+			"profile": "うさぎなので、お酒を与えると懐く仕様です。",
 			"panelId": 13,
 			"roll": "cast",
 			"option": "0"
@@ -138,8 +138,8 @@
 		{
 			"vrcName": "寝落ちのながと",
 			"castName": "ながと",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "お喋り・癒し・乾杯",
+			"profile": "二人だけの特別な時間たのしんじゃお♡",
 			"panelId": 15,
 			"roll": "cast",
 			"option": "0"
@@ -192,8 +192,8 @@
 		{
 			"vrcName": "しろあり。",
 			"castName": "しろあり。",
-			"type": "いちゃいちゃメイン",
-			"profile": "プロフィール",
+			"type": "いちゃいちゃメイン・なんでもOK",
+			"profile": "今日はありさんが独り占めっ…♡",
 			"panelId": 21,
 			"roll": "cast",
 			"option": "0"
@@ -237,8 +237,8 @@
 		{
 			"vrcName": "yamada0224",
 			"castName": "山田",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "お喋り・たまに近距離",
+			"profile": "いーっぱいお酒用意したから、私と一緒に乾杯しよ？",
 			"panelId": 26,
 			"roll": "cast",
 			"option": "0"
@@ -255,8 +255,8 @@
 		{
 			"vrcName": "座敷童。",
 			"castName": "座敷童。",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "お喋り・いちゃいちゃ・近距離",
+			"profile": "妖も兎の夢を見る。甘く楽しい、特別な時間。\n二人きりの夜をいーっぱい楽しもう？",
 			"panelId": 28,
 			"roll": "cast",
 			"option": "0"
@@ -264,8 +264,8 @@
 		{
 			"vrcName": "Libell - りべる",
 			"castName": "りべる",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "囁き・近距離・いちゃいちゃ",
+			"profile": "お姉さんと一緒にたくさん悪いことしようね？",
 			"panelId": 29,
 			"roll": "cast",
 			"option": "0"
@@ -300,8 +300,8 @@
 		{
 			"vrcName": "sakotsu4",
 			"castName": "鎖骨",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "お喋り・近距離",
+			"profile": "あなたのこと、たくさん教えてね\n今夜はどんなあなたを見せてくれる？",
 			"panelId": 33,
 			"roll": "cast",
 			"option": "0"
@@ -309,15 +309,15 @@
 		{
 			"vrcName": "シアン -shian-",
 			"castName": "シアン",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "いちぃちゃ・近距離",
+			"profile": "今夜はいっぱい楽しもうね♡",
 			"panelId": 34,
 			"roll": "cast",
 			"option": "0"
 		},
 		{
-			"vrcName": "美海 -miu-",
-			"castName": "miu",
+			"vrcName": "千愛（ちあい）",
+			"castName": "千愛（ちあい）",
 			"type": "接客タイプ",
 			"profile": "プロフィール",
 			"panelId": 35,
@@ -336,8 +336,8 @@
 		{
 			"vrcName": "さや__",
 			"castName": "さや",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "お喋り・いちゃいちゃ・近距離",
+			"profile": "はじめてのバニー姿を貴方にお見せしたいのです。したいこと全部しよ・・？",
 			"panelId": 37,
 			"roll": "cast",
 			"option": "0"
@@ -345,8 +345,8 @@
 		{
 			"vrcName": "Snow∗暁",
 			"castName": "スノウ",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "お喋り・近距離",
+			"profile": "スノウです！バニーですよバニー！！\n楽しもうね？",
 			"panelId": 38,
 			"roll": "cast",
 			"option": "0"
@@ -354,8 +354,8 @@
 		{
 			"vrcName": "パン工房",
 			"castName": "パン工房",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "したいことぜーんぶしてあげる！♡♡",
+			"profile": "白い優しい兎さんだと思った〜？僕の事、ずーっと見ててね〜！♡♡君のこともずっと見てあげるから…♡♡最高の夜にしちゃおうね♡♡",
 			"panelId": 39,
 			"roll": "cast",
 			"option": "0"
@@ -372,8 +372,8 @@
 		{
 			"vrcName": "ぽむちめが",
 			"castName": "ぽむちめが",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "乾杯・おっぱい・夢いっぱい",
+			"profile": "欲求不満のウサギなのでいっぱい飲ませください",
 			"panelId": 41,
 			"roll": "cast",
 			"option": "0"
@@ -381,8 +381,8 @@
 		{
 			"vrcName": "みみ__",
 			"castName": "みみ",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "キミが望むコト♡",
+			"profile": "今夜はキミだけのウサギさんになっちゃいます♡\nしてほしいこと、なんでも教えてね...💕",
 			"panelId": 42,
 			"roll": "cast",
 			"option": "0"
@@ -399,8 +399,8 @@
 		{
 			"vrcName": "ぶる～ど",
 			"castName": "ぶる〜ど",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "お喋り・近距離・いちゃいちゃ",
+			"profile": "今夜のぶる～どは、うさぎさん！\nお喋りしたり、一緒に甘い時間をすごそ♡\nぶる～どを甘やかしてもいいんだよ！！",
 			"panelId": 44,
 			"roll": "cast",
 			"option": "0"
@@ -429,6 +429,24 @@
 			"type": "接客タイプ",
 			"profile": "プロフィール",
 			"panelId": 47,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "ねこあま",
+			"castName": "あま",
+			"type": "おしゃべり・近距離・甘やかし",
+			"profile": "のんびりした時間も、少し刺激のある時間も好きなバニーです♡\nあなたとどんなひとときになるかは、会ってからのお楽しみ…♡",
+			"panelId": 48,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
+			"vrcName": "レドムン／redmun",
+			"castName": "レドムン",
+			"type": "おはなし・ささやき・いちゃいちゃ",
+			"profile": "ふたりきりの、甘くてとろける特別な時間を...💕\nお姉さんバニーとた～くさん楽しみましょうねっ",
+			"panelId": 49,
 			"roll": "cast",
 			"option": "0"
 		},
