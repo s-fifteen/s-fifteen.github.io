@@ -424,6 +424,15 @@
 			"option": "0"
 		},
 		{
+			"vrcName": "tii_z",
+			"castName": "ちづ",
+			"type": "お喋り/超近距離/いちゃいちゃ",
+			"profile": "まっしろうさぎの ちづ です！\n楽しいお喋りから甘々密着接客まで…♡\n皆様にお会いしたくてうずうずしてます！\nふたりきりの世界、満喫しようね♡",
+			"panelId": 50,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
 			"vrcName": "あんこ_ev",
 			"castName": "あんこ",
 			"type": "dummy",
@@ -442,7 +451,7 @@
 			"option": "0"
 		},
 		{
-			"vrcName": "wasao（わさお）",
+			"vrcName": "WASAO（わさお）_EV",
 			"castName": "わさお",
 			"type": "dummy",
 			"profile": "dummy",
