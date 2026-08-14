@@ -372,8 +372,8 @@
 		{
 			"vrcName": "_phi",
 			"castName": "ふぁい",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "あなたの好きなこと、ぜんぶ。",
+			"profile": "はやく見つけに来てね\n忘れられない夜にしましょうね",
 			"panelId": 43,
 			"roll": "cast",
 			"option": "0"
@@ -437,7 +437,7 @@
 			"castName": "あんこ",
 			"type": "dummy",
 			"profile": "dummy",
-			"panelId": 0,
+			"panelId": 51,
 			"roll": "staff",
 			"option": "0"
 		},
@@ -446,7 +446,7 @@
 			"castName": "龍龍×2",
 			"type": "dummy",
 			"profile": "dummy",
-			"panelId": 0,
+			"panelId": 52,
 			"roll": "staff",
 			"option": "0"
 		},
@@ -455,7 +455,7 @@
 			"castName": "わさお",
 			"type": "dummy",
 			"profile": "dummy",
-			"panelId": 0,
+			"panelId": 53,
 			"roll": "staff",
 			"option": "0"
 		}
