@@ -1,6 +1,15 @@
 {
 	"cast": [
 		{
+			"vrcName": "dummy",
+			"castName": "dummy",
+			"type": "dummy",
+			"profile": "dummy",
+			"panelId": 0,
+			"roll": "cast",
+			"option": "0"
+		},
+		{
 			"vrcName": "Fifteen_1515",
 			"castName": "Fifteen",
 			"type": "なんでもあり",
