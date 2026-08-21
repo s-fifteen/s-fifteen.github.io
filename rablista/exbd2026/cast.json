@@ -467,6 +467,15 @@
 			"panelId": 51,
 			"roll": "staff",
 			"option": "0"
+		},
+		{
+			"vrcName": "リクインNPC",
+			"castName": "dummy",
+			"type": "dummy",
+			"profile": "dummy",
+			"panelId": 52,
+			"roll": "staff",
+			"option": "0"
 		}
 	]
 }
