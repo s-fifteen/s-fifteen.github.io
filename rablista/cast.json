@@ -20,7 +20,7 @@
 		},
 		{
 			"vrcName": "あんこ_ev",
-			"castName": "あんこ",
+			"castName": "dummy",
 			"type": "dummy",
 			"profile": "dummy",
 			"panelId": 0,
