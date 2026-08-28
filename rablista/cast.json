@@ -226,11 +226,29 @@
 			"option": "1"
 		},
 		{
+			"vrcName": "たかなしみるく",
+			"castName": "たかなしみるく",
+			"type": "甘やかし、おしゃべり、イチャイチャ",
+			"profile": "お帰りなさい、ボクくん♡\n今日はお姉ちゃんとお部屋でゆっくりしよっか♡\n一日の疲れをほぐせるようにお姉ちゃん、頑張っちゃうね！",
+			"panelId": 23,
+			"roll": "cast",
+			"option": "1"
+		},
+		{
+			"vrcName": "ChienNoiR",
+			"castName": "ChienNoiR",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 24,
+			"roll": "cast",
+			"option": "1"
+		},
+		{
 			"vrcName": "dummy",
 			"castName": "あんこ",
 			"type": "dummy",
 			"profile": "dummy",
-			"panelId": 23,
+			"panelId": 25,
 			"roll": "private",
 			"option": "0"
 		}
