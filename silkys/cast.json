@@ -21,8 +21,8 @@
 			"roll": "cast"
 		},
 		{
-			"vrcName": "ショウガ３",
-			"castName": "ショウガ３",
+			"vrcName": "honey-?",
+			"castName": "honey-?",
 			"roll": "cast"
 		},
 		{
@@ -38,11 +38,6 @@
 		{
 			"vrcName": "まこ Mako",
 			"castName": "まこ",
-			"roll": "cast"
-		},
-		{
-			"vrcName": "のんちゃん。",
-			"castName": "ひな。",
 			"roll": "cast"
 		}
 	]
