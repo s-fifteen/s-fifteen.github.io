@@ -244,6 +244,69 @@
 			"option": "1"
 		},
 		{
+			"vrcName": "あるふぁゲル",
+			"castName": "あるふぁゲル",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 24,
+			"roll": "cast",
+			"option": "1"
+		},
+		{
+			"vrcName": "微睡ねむ",
+			"castName": "ねむ",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 24,
+			"roll": "cast",
+			"option": "1"
+		},
+		{
+			"vrcName": "みみ__",
+			"castName": "みみ",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 24,
+			"roll": "cast",
+			"option": "1"
+		},
+		{
+			"vrcName": "warabi_oxo",
+			"castName": "らび",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 24,
+			"roll": "cast",
+			"option": "1"
+		},
+		{
+			"vrcName": "ろくじゅーいち",
+			"castName": "61",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 24,
+			"roll": "cast",
+			"option": "1"
+		},
+		{
+			"vrcName": "HELLOKITTY＿oo＿",
+			"castName": "キティ",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 24,
+			"roll": "cast",
+			"option": "1"
+		},
+		{
+			"vrcName": "犬DOG",
+			"castName": "犬DOG",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 24,
+			"roll": "cast",
+			"option": "1"
+		},
+		{
 			"vrcName": "dummy",
 			"castName": "あんこ",
 			"type": "dummy",
