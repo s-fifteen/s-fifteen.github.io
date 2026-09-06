@@ -406,20 +406,11 @@
 			"option": "0"
 		},
 		{
-			"vrcName": "くらげぺろんちょ",
-			"castName": "くらげ",
-			"type": "あまあま近距離、いたずら、撫で",
-			"profile": "普段はねこちゃんだけど・・・🐱今日はうさちゃんになっちゃいました💙🐰\n今夜は、あま～いお菓子のようなとろとろした時間をいっしょに楽しもうね♪",
-			"panelId": 46,
-			"roll": "cast",
-			"option": "0"
-		},
-		{
 			"vrcName": "ねこあま",
 			"castName": "あま",
 			"type": "おしゃべり・近距離・甘やかし",
 			"profile": "のんびりした時間も、少し刺激のある時間も好きなバニーです♡\nあなたとどんなひとときになるかは、会ってからのお楽しみ…♡",
-			"panelId": 47,
+			"panelId": 46,
 			"roll": "cast",
 			"option": "0"
 		},
@@ -428,7 +419,7 @@
 			"castName": "レドムン",
 			"type": "おはなし・ささやき・いちゃいちゃ",
 			"profile": "ふたりきりの、甘くてとろける特別な時間を...💕\nお姉さんバニーとた～くさん楽しみましょうねっ",
-			"panelId": 48,
+			"panelId": 47,
 			"roll": "cast",
 			"option": "0"
 		},
@@ -437,7 +428,7 @@
 			"castName": "ちづ",
 			"type": "お喋り/超近距離/いちゃいちゃ",
 			"profile": "まっしろうさぎの ちづ です！\n楽しいお喋りから甘々密着接客まで…♡\n皆様にお会いしたくてうずうずしてます！\nふたりきりの世界、満喫しようね♡",
-			"panelId": 49,
+			"panelId": 48,
 			"roll": "cast",
 			"option": "0"
 		},
@@ -446,7 +437,7 @@
 			"castName": "あんこ",
 			"type": "dummy",
 			"profile": "dummy",
-			"panelId": 50,
+			"panelId": 49,
 			"roll": "staff",
 			"option": "0"
 		},
@@ -455,7 +446,7 @@
 			"castName": "龍龍×2",
 			"type": "dummy",
 			"profile": "dummy",
-			"panelId": 51,
+			"panelId": 50,
 			"roll": "staff",
 			"option": "0"
 		},
@@ -464,7 +455,7 @@
 			"castName": "わさお",
 			"type": "dummy",
 			"profile": "dummy",
-			"panelId": 52,
+			"panelId": 51,
 			"roll": "staff",
 			"option": "0"
 		},
@@ -473,7 +464,7 @@
 			"castName": "dummy",
 			"type": "dummy",
 			"profile": "dummy",
-			"panelId": 53,
+			"panelId": 52,
 			"roll": "staff",
 			"option": "0"
 		}
