@@ -78,7 +78,7 @@
 			"type": "おはなし/のんびり/甘やかし",
 			"profile": "はじめましてっ♡\nバニーのらいちゃんだよ〜！\n甘いものと楽しいおしゃべりがだ〜いすき！\nあなたにたくさん癒しと元気をお届けしちゃいますっ！！\n仲良くしてくれたら、ぴょんぴょん喜ぶかも…？ ",
 			"panelId": 6,
-			"roll": "cast",
+			"roll": "suspend",
 			"option": "1"
 		},
 		{
@@ -240,7 +240,7 @@
 			"type": "接客タイプ",
 			"profile": "プロフィール",
 			"panelId": 24,
-			"roll": "cast",
+			"roll": "precast",
 			"option": "1"
 		},
 		{
@@ -248,8 +248,8 @@
 			"castName": "あるふぁゲル",
 			"type": "接客タイプ",
 			"profile": "プロフィール",
-			"panelId": 24,
-			"roll": "cast",
+			"panelId": 25,
+			"roll": "precast",
 			"option": "1"
 		},
 		{
@@ -257,8 +257,8 @@
 			"castName": "ねむ",
 			"type": "接客タイプ",
 			"profile": "プロフィール",
-			"panelId": 24,
-			"roll": "cast",
+			"panelId": 26,
+			"roll": "precast",
 			"option": "1"
 		},
 		{
@@ -266,26 +266,26 @@
 			"castName": "みみ",
 			"type": "接客タイプ",
 			"profile": "プロフィール",
-			"panelId": 24,
-			"roll": "cast",
+			"panelId": 27,
+			"roll": "precast",
 			"option": "1"
 		},
 		{
 			"vrcName": "warabi_oxo",
 			"castName": "らび",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
-			"panelId": 24,
-			"roll": "cast",
+			"type": "ご希望叶えます♡",
+			"profile": "ふたりっきりでしかできないことして、いーっぱい甘えて溶けてね?\n私のことしか考えられなくしてあげる...🤍\n君が来てくれるの待ってるよ～",
+			"panelId": 28,
+			"roll": "precast",
 			"option": "1"
 		},
 		{
 			"vrcName": "ろくじゅーいち",
 			"castName": "61",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
-			"panelId": 24,
-			"roll": "cast",
+			"type": "お喋り・いちゃいちゃ・少しいじわる♡",
+			"profile": "こんばんは、61だよ。\n今日はたくさんおしゃべりして、近距離でいっぱいドキドキしよ？\nキミの可愛い顔、たくさん私に見せてね♡",
+			"panelId": 29,
+			"roll": "precast",
 			"option": "1"
 		},
 		{
@@ -293,8 +293,8 @@
 			"castName": "キティ",
 			"type": "接客タイプ",
 			"profile": "プロフィール",
-			"panelId": 24,
-			"roll": "cast",
+			"panelId": 30,
+			"roll": "precast",
 			"option": "1"
 		},
 		{
@@ -302,8 +302,8 @@
 			"castName": "犬DOG",
 			"type": "接客タイプ",
 			"profile": "プロフィール",
-			"panelId": 24,
-			"roll": "cast",
+			"panelId": 31,
+			"roll": "precast",
 			"option": "1"
 		},
 		{
@@ -311,7 +311,7 @@
 			"castName": "あんこ",
 			"type": "dummy",
 			"profile": "dummy",
-			"panelId": 25,
+			"panelId": 32,
 			"roll": "private",
 			"option": "0"
 		}
