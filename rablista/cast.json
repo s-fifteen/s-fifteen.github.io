@@ -11,7 +11,7 @@
 		},
 		{
 			"vrcName": "リクインNPC078",
-			"castName": "ななは ",
+			"castName": "ななは",
 			"type": "dummy",
 			"profile": "dummy",
 			"panelId": 0,
@@ -291,8 +291,8 @@
 		{
 			"vrcName": "HELLOKITTY＿oo＿",
 			"castName": "キティ",
-			"type": "接客タイプ",
-			"profile": "プロフィール",
+			"type": "お喋り・近距離・少しイチャイチャ",
+			"profile": "目のやり場に困るかもしれないけど\nちゃんとお顔を見てお話ししようね♡",
 			"panelId": 31,
 			"roll": "precast",
 			"option": "1"
