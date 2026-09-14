@@ -289,7 +289,7 @@
 			"option": "1"
 		},
 		{
-			"vrcName": "HELLOKITTY＿oo＿",
+			"vrcName": "HELLOKITTY_oo_",
 			"castName": "キティ",
 			"type": "お喋り・近距離・少しイチャイチャ",
 			"profile": "目のやり場に困るかもしれないけど\nちゃんとお顔を見てお話ししようね♡",
@@ -303,6 +303,24 @@
 			"type": "お喋り・少しいちゃいちゃ・内緒♡",
 			"profile": "たくさん貴方のことを知れたら嬉しいです。\n仲良くなったら少し特別な距離でお話ししましょうね。\n今夜のことは、二人だけの秘密ですよ。",
 			"panelId": 32,
+			"roll": "precast",
+			"option": "1"
+		},
+		{
+			"vrcName": "た～し～",
+			"castName": "た～し～",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 33,
+			"roll": "precast",
+			"option": "1"
+		},
+		{
+			"vrcName": "Akarin_nano",
+			"castName": "なの",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 34,
 			"roll": "precast",
 			"option": "1"
 		}
