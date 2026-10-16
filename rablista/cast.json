@@ -2,7 +2,7 @@
 	"cast": [
 		{
 			"vrcName": "リクインNPC",
-			"castName": "Fifteen",
+			"castName": "Fifteen ",
 			"type": "dummy",
 			"profile": "dummy",
 			"panelId": 0,
@@ -11,7 +11,7 @@
 		},
 		{
 			"vrcName": "リクインNPC078",
-			"castName": "ななは",
+			"castName": "ななは ",
 			"type": "dummy",
 			"profile": "dummy",
 			"panelId": 0,
