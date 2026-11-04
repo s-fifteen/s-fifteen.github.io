@@ -3,42 +3,47 @@
 		{
 			"vrcName": "Fifteen_1515",
 			"castName": "Fifteen",
-			"roll": "cast"
+			"role": "admin"
 		},
 		{
 			"vrcName": "じりじりあ",
 			"castName": "じりあ",
-			"roll": "cast"
+			"role": "cast"
 		},
 		{
 			"vrcName": "白野_アウ",
 			"castName": "白野アウ",
-			"roll": "cast"
+			"role": "cast"
 		},
 		{
 			"vrcName": "憂闇ヤマヰ",
 			"castName": "憂闇ヤマヰ",
-			"roll": "cast"
+			"role": "cast"
 		},
 		{
 			"vrcName": "honey-?",
-			"castName": "honey-?",
-			"roll": "cast"
+			"castName": "honey-？",
+			"role": "cast"
 		},
 		{
 			"vrcName": "Nana8a",
 			"castName": "ななは",
-			"roll": "cast"
+			"role": "cast"
 		},
 		{
 			"vrcName": "千愛 -chiai-",
 			"castName": "千愛（ちあい）",
-			"roll": "cast"
+			"role": "cast"
 		},
 		{
 			"vrcName": "まこ Mako",
 			"castName": "まこ",
-			"roll": "cast"
+			"role": "cast"
+		},
+		{
+			"vrcName": "いななほ",
+			"castName": "なほ",
+			"role": "cast"
 		}
 	]
 }
