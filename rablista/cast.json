@@ -51,7 +51,7 @@
 			"type": "おはなし/ゆっくり",
 			"profile": "どんなうさぎが好きですか？\nあなたの好きなことのお話しようね",
 			"panelId": 4,
-			"role": "cast",
+			"role": "suspend",
 			"option": "0"
 		},
 		{
