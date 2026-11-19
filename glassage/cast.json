@@ -188,6 +188,42 @@
 			"panelId": 22,
 			"role": "cast",
 			"option": "AB"
+		},
+		{
+			"vrcName": "sino____",
+			"castName": "sino",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 23,
+			"role": "private",
+			"option": "AB"
+		},
+		{
+			"vrcName": "ナティ -Naty-",
+			"castName": "ナティ",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 24,
+			"role": "private",
+			"option": "AB"
+		},
+		{
+			"vrcName": "ねこあま",
+			"castName": "あま",
+			"type": "接客タイプ",
+			"profile": "プロフィール",
+			"panelId": 25,
+			"role": "private",
+			"option": "AB"
+		},
+		{
+			"vrcName": "万 -YOROZU-",
+			"castName": "YOROZU",
+			"type": "おしゃべり・なでなで・ほろ酔い",
+			"profile": "ぽんこつお姉さんとお話ししよ？\nちょっとだけ、飲みながら楽しく過ごそうね。\n時々なでなでもしていいかな？",
+			"panelId": 26,
+			"role": "private",
+			"option": "AB"
 		}
 	]
 }
